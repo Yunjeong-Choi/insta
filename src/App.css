@@ -1,0 +1,19 @@
+.App {
+  margin-left: 10%;
+  width: 50%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+  list-style: none;
+}
+
+.flex-item {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 1px;
+}
